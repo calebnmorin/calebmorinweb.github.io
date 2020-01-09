@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caleb Morin</title>
+    <description>I am an engineer, and this is what I do. 
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 08 Jan 2020 21:07:35 -0500</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2020 21:07:35 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Creep Test Machine</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/T76yHD0WtLw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;&lt;img style=&quot;width:80%; float: left; padding-right: 10px; padding-bottom: 10px;&quot; src=&quot;/assets/posts/creep-test-machine/creep-test.png&quot; /&gt;&lt;/p&gt; &lt;p&gt;I built this machine to measure the creep (slow...</description>
+        <pubDate>Sat, 08 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2017/04/08/creep-test-machine.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/08/creep-test-machine.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Solar Powered Pendulum</title>
+        <description>&lt;p&gt;&lt;img style=&quot;width:40%; float: left; padding: 10px;&quot; src=&quot;/assets/posts/solar-powered-pendulum/pendulum1.png&quot; /&gt; &lt;img style=&quot;width:60%; float: left; padding: 10px;&quot; src=&quot;/assets/posts/solar-powered-pendulum/pendulum2.jpg&quot; /&gt; &lt;img style=&quot;width:60%; float: left; padding: 10px;&quot; src=&quot;/assets/posts/solar-powered-pendulum/pendulum3.jpg&quot; /&gt;&lt;/p&gt; &lt;p&gt;During the Spring semester of 2016,...</description>
+        <pubDate>Sun, 13 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2016/11/13/solar-powered-pendulum.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/11/13/solar-powered-pendulum.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CNC Milling Machine Build</title>
+        <description>&lt;p&gt;&lt;img style=&quot;width:40%; float: left; padding: 10px;&quot; src=&quot;/assets/posts/cnc-milling-machine/cnc1.jpg&quot; /&gt; &lt;img style=&quot;width:60%; float: left; padding: 10px;&quot; src=&quot;/assets/posts/cnc-milling-machine/cnc2.jpg&quot; /&gt;&lt;/p&gt; &lt;p&gt;I converted this Grizzly G0704 milling machine to CNC during the summer of 2016....</description>
+        <pubDate>Sun, 21 Aug 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2016/08/21/cnc-milling-machine-build.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/08/21/cnc-milling-machine-build.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Furnace Build</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/posts/furnace-build/furnace.png&quot; alt=&quot;Furnace&quot; /&gt;&lt;/p&gt; &lt;p&gt;I built this furnace primarily to melt aluminum, however it will also melt copper, with limited success melting cast iron. The steel drum used as a...</description>
+        <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2016/02/01/furnace-build.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/02/01/furnace-build.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Homemade Bandsaw</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/posts/homemade-bandsaw/bandsaw.jpg&quot; alt=&quot;Bandsaw&quot; /&gt; This is the 30in bandsaw that I built several years ago. The frame of this bandsaw is made of 2x4’s, while the wheels are from salvaged...</description>
+        <pubDate>Sun, 31 Jan 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2016/01/31/homemade-bandsaw.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/31/homemade-bandsaw.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
